@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leoo098
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me leonardor716@gmail.com
 
 <!---
