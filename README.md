@@ -2,7 +2,7 @@
 
 ### `Desenvolvedor Backend`
 
-Me chamo Leonardo Ribeiro, sou formado em Análise e Desenvolvimentos de Sistemas pelo IESB. Gosto do desafio proporcionado pelo desenvolvimento de softwares para a solução de problemas.
+Me chamo Leonardo Ribeiro, sou formado em Análise e Desenvolvimento de Sistemas pelo IESB. Gosto do desafio proporcionado pelo desenvolvimento de softwares para a solução de problemas.
 
 ---
 
