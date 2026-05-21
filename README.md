@@ -2,7 +2,7 @@
 
 ### `Engenheiro de Software`
 
-Me chamo Leonardo Ribeiro, sou formado em Análise e Desenvolvimento de Sistemas pelo IESB. Gosto do desafio proporcionado pelo desenvolvimento de softwares para a solução de problemas.
+Me chamo Leonardo Ribeiro, sou formado em Análise e Desenvolvimento de Sistemas pelo IESB. Gosto do desafio proporcionado pelo desenvolvimento de softwares para a solução de problemas. E estou sempre buscando novos conhecimentos, atualmente estou aprendendo Angular.
 
 ---
 
